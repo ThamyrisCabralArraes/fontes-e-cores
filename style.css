@@ -1,3 +1,14 @@
+body {
+    /* atalho:  background: url(CA.png) no-repeat fixed center */
+    background-image: url(CA.png);
+    background-repeat: no-repeat;
+    /* repeat x - horizontal, repeat y - vertical, repeat - repetir varias vezes na tela toda */
+    background-attachment: fixed;
+    background-position: right center; /* bottom -> em baixo, top em cima, left, right */
+    /* background-color: rgb(246, 235, 221); */
+    /* pode colocar foto somente no h1 */
+    /* Para usar cor com imagem-> background: red url(CA.png) no-repeat fixed center */
+}
 .pai {
     font-size: 16px;
 }
