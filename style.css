@@ -1,5 +1,22 @@
+.pai {
+    font-size: 16px;
+}
 .formatacao {
     color: #DF0174;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif ;
 }
+.texto {
+    font-size: 2em;
+}
+.texto2 {
+    font-size: 1em;
+}
+/* px -> tamanho fixo
+% tamanho relativo
+em -> tamnho relativo ao container pai 
+se colocar 2em vai ficar o dobro do tamanho do pai]
+vc pode alterar o pai e os textos ficarão proporcinais
+16px é a fonte normal q se usa se não alterar nada*/
+
+/* https://html-color-codes.info/colors-from-image/ procurar cor*/
