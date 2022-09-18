@@ -12,6 +12,21 @@
 .texto2 {
     font-size: 1em;
 }
+.negrito {
+    font-weight: 500;
+}
+.italico {
+    font-style: italic;
+}
+.sublinhar {
+    text-decoration: underline;  
+}
+.linha {
+    text-decoration: overline;
+}
+.cortar {
+    text-decoration: line-through;
+}
 /* px -> tamanho fixo
 % tamanho relativo
 em -> tamnho relativo ao container pai 
@@ -20,3 +35,11 @@ vc pode alterar o pai e os textos ficarão proporcinais
 16px é a fonte normal q se usa se não alterar nada*/
 
 /* https://html-color-codes.info/colors-from-image/ procurar cor*/
+
+/*negrito é font-weight: de 100 até 900
+italico: fonte-style: italic
+sublinhar: text-decoration: underline
+linha em cima: text-decoration: overline
+passar uma linha na palavra: text-decoration: line-through */
+
+
